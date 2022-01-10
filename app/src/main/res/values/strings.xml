@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MisTareasa</string>
+    <string name="MiHouse">Mi casa</string>
+    <string name="Recetas">Recetas</string>
+    <string name="Alimentos">Alimentos</string>
+    <string name="KComo">Que como hoy?</string>
+    <string name="Calendario">Calendario</string>
+    <string name="Dietas">Dietas</string>
+    <string name="RecetaX">Receta X</string>
+    <string name="addReceta">Crea tu receta</string>
+    <string name="IB">description</string>
+    <string name="Labeldes">descripcion:</string>
+    <string name="LabeladdAliment">Añadir alimento:</string>
+    <string name="InputName">nombre</string>
+    <string name="saveButton">guardar</string>
+
+
+    <string name="material_calendar_monday">L</string>
+    <string name="material_calendar_tuesday">M</string>
+    <string name="material_calendar_wednesday">Mi</string>
+    <string name="material_calendar_thursday">J</string>
+    <string name="material_calendar_friday">V</string>
+    <string name="material_calendar_saturday">S</string>
+    <string name="material_calendar_sunday">D</string>
+
+    <array name="material_calendar_months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+
+    <string name="material_calendar_today_button">Today</string>
+    <string name="material_calendar_positive_button">OK</string>
+    <string name="material_calendar_negative_button">Cancel</string>
+</resources>
